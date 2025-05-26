@@ -123,9 +123,14 @@ Node 3: Slots 10923 - 16383
 
 ----------------------------------------------
 ### 📝Summary
+
 ✅Redis installed on 3 nodes
+
 ✅Configured with clustering enabled
+
 ✅Required ports opened
+
 ✅Redis Cluster created successfully
+
 ✅All 16384 hash slots assigned
 
