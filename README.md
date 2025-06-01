@@ -12,7 +12,7 @@ Set up a Redis Cluster with 3 EC2 instances acting as Redis nodes using custom p
 - Redis installed on each instance
 
 ---
-
+---
 ## 🧩 Step-by-Step Setup
 
 ### 🖥️ 1. Install Redis on All EC2 Instances
